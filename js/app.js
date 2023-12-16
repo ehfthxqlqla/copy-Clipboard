@@ -24,4 +24,4 @@ titleTag.innerText = `복사하기 - ${copyTarget}`
 //     })
 // }
 
-spanTag.innerText = `${copyTarget}`
+spanTag.innerHTML = `${copyTarget}`
